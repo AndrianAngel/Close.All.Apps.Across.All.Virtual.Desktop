@@ -18,10 +18,10 @@ This repository contains a ZIP file with everything you need:
 
 ### ✨ Features
 
-## 🎯 One-Click Solution: Press Ctrl+F9 to close all windows across ALL virtual desktops
-## 🛡️ Safety First: Shows a confirmation dialog before executing (no accidental closures!)
+🎯 One-Click Solution: Press Ctrl+F9 to close all windows across ALL virtual desktops
+🛡️ Safety First: Shows a confirmation dialog before executing (no accidental closures!)
 
-## 🎨 Smart Filtering: Automatically skips:
+🎨 Smart Filtering: Automatically skips:
 
 - Rainmeter widgets 🌈
 - Windows Shell components (Taskbar, etc.) 
@@ -31,10 +31,11 @@ This repository contains a ZIP file with everything you need:
 
 ---
 
-## 🔄 Seamless Navigation: 
+🔄 Seamless Navigation: 
 Automatically returns you to your original desktop after closing everything
+
 ---
-## ⏱️ Optimized Timing:
+⏱️ Optimized Timing:
 Built-in delays ensure smooth desktop switching and proper window closure
 ---
 ### 🚀 How It Works
@@ -51,7 +52,7 @@ Built-in delays ensure smooth desktop switching and proper window closure
 ---
 
 ### 💡 Use Cases
-## Perfect for:
+Perfect for:
 
 - ⭐ Quick workspace cleanup
 - 🔄 Fresh start without restarting Windows
@@ -65,9 +66,10 @@ Built-in delays ensure smooth desktop switching and proper window closure
 Windows 10/11 with Virtual Desktops enabled
 AutoHotkey v2.0 (only if running the .ahk file directly)
 The included VD.ahk library must be in the same folder as the script
-### 🎮 Usage
 
 ---
+
+### 🎮 Usage
 
 Simply run the .exe file or the .ahk script (if you have AutoHotkey v2 installed), then press Ctrl+F9 whenever you need a clean slate! 🎉
 
