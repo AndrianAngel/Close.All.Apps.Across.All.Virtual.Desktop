@@ -25,7 +25,9 @@ ___
 🎯 One-Click Solution: Press Ctrl+F9 to close all windows across ALL virtual desktops
 🛡️ Safety First: Shows a confirmation dialog before executing (no accidental closures!)
 
-🎨 Smart Filtering: Automatically skips:
+🎨 Smart Filtering:
+
+Automatically skips :
 
 - Rainmeter widgets 🌈
 - Windows Shell components (Taskbar, etc.) 
