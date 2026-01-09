@@ -2,6 +2,10 @@
 
 ### 🖥️ Close All Apps Across All Virtual Desktops
 
+👉 The previous version was updated to work with VD.ahk (Autohotkey V2) 
+Link(Old version): https://github.com/AndrianAngel/Autohotkey-Tools/blob/main/Close%20All%20Windows%20With%20Dialog%20Box.ahk
+
+
 A powerful AutoHotkey v2 script that closes all open windows across every Windows virtual desktop with a single hotkey! 🚀
 
 ---
