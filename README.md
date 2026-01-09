@@ -1,4 +1,4 @@
----
+___
 
 ### 🖥️ Close All Apps Across All Virtual Desktops
 
@@ -8,7 +8,7 @@
 
 A powerful AutoHotkey v2 script that closes all open windows across every Windows virtual desktop with a single hotkey! 🚀
 
----
+___
 
 ### 📦 What's Included
 
@@ -18,7 +18,7 @@ This repository contains a ZIP file with everything you need:
 - ⚙️ Close.All.Apps.Across.All.Virtual.Desktop.exe - Pre-compiled executable (ready to use!)
 - 📚 VD.ahk - Required library for virtual desktop management (AutoHotkey v2)
 
----
+___
 
 ### ✨ Features
 
@@ -33,15 +33,15 @@ This repository contains a ZIP file with everything you need:
 - Start Menu 📱
 - System windows without titles ⚙️
 
----
+___
 
 🔄 Seamless Navigation: 
 Automatically returns you to your original desktop after closing everything
 
----
+___
 ⏱️ Optimized Timing:
 Built-in delays ensure smooth desktop switching and proper window closure
----
+___
 ### 🚀 How It Works
 
 - Press Ctrl+F9 ⌨️
@@ -53,7 +53,7 @@ Built-in delays ensure smooth desktop switching and proper window closure
 - ❌ Closes all eligible windows (while skipping protected ones)
 - 🏠 Returns you to your original desktop
 
----
+___
 
 ### 💡 Use Cases
 Perfect for:
@@ -63,7 +63,7 @@ Perfect for:
 - 🎮 Switching between work and personal setups
 - 🎁 Testing scenarios that require a clean slate
 
----
+___
 
 ### ⚠️ Requirements
 
@@ -71,10 +71,10 @@ Windows 10/11 with Virtual Desktops enabled
 AutoHotkey v2.0 (only if running the .ahk file directly)
 The included VD.ahk library must be in the same folder as the script
 
----
+___
 
 ### 🎮 Usage
 
 Simply run the .exe file or the .ahk script (if you have AutoHotkey v2 installed), then press Ctrl+F9 whenever you need a clean slate! 🎉
 
----
+___
